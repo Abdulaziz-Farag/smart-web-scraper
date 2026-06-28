@@ -51,7 +51,7 @@
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-web-scraper.git
+git clone https://github.com/Abdulaziz-Farag/smart-web-scraper.git
 cd smart-web-scraper
 pip install -r requirements.txt
 python gui/app.py
